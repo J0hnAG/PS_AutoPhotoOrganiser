@@ -55,4 +55,5 @@ Example:
   
 ----------------> Video_25-01-2023_1.mp4
 
+Once the script has run, it will output the actions taken into a log file. This is useful if you schedule the task to run daily to automatically organise any photos or videos dumped into the source location.
 
